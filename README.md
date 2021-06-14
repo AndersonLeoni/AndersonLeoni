@@ -1,7 +1,7 @@
 ## Hi there, i'm AndersonLeoni 👋
 
 ### Redes Sociais
-(/assets/linkedin.png)
+(./assets/linkedin.png)
 
 
 ### Github stats :bar_chart:
