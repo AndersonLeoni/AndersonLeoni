@@ -1,4 +1,4 @@
-## Hi there, i'm AndersonLeoni 👋
+## Hi there, i'm @AndersonLeoni 👋
 
 ### Github stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AndersonLeoni&show_icons=true&hide=contribs,prs)
