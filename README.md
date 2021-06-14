@@ -1,7 +1,7 @@
 ## Hi there, i'm AndersonLeoni 👋
 
 ### Redes Sociais
-(./assets/linkedin.png)
+(https://github.com/AndersonLeoni/AndersonLeoni/blob/main/assets/facebook.png)
 
 
 ### Github stats :bar_chart:
