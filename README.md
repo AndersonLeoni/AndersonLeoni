@@ -1,7 +1,7 @@
 ## Hi there, i'm AndersonLeoni 👋
 
 ### Redes Sociais
-<a href="https://www.linkedin.com/in/andersonleoni/" target="_blank">(/assets/linkedin.png)</a>
+(/assets/linkedin.png)
 
 
 ### Github stats :bar_chart:
