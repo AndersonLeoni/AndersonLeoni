@@ -1,7 +1,7 @@
 ## Hi there, i'm AndersonLeoni 👋
 
 ### Redes Sociais
-![GitHub Logo](/assets/facebook.png=50x50)
+![GitHub Logo](/assets/facebook.png width="50")
 
 
 ### Github stats :bar_chart:
