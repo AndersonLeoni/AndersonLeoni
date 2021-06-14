@@ -13,7 +13,7 @@
 <br />
 <br />
 
-Hi, I'm Anderson Leoni, a passionate self-taught frontEnd web developer from India.
+Hi, I'm Anderson Leoni, a passionate self-taught frontEnd web developer from Brazil.
 
 
 - 🌱 I’m currently learning JavaScript and SQL
