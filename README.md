@@ -6,7 +6,7 @@
 <a href="https://twitter.com/MadGraves138">
   <img align="left" alt="Anderson | Twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
 </a>
-<a href="https://discord.gg/399023307548131338">
+<a href="https://discord.gg/sEEqSe6F">
   <img align="left" alt="Anurag's Discord" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/discord-round.svg" />
 </a>
 
