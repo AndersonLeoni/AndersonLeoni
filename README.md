@@ -30,7 +30,7 @@ Hi, I'm Anderson Leoni, a passionate self-taught frontEnd web developer from Bra
 
 *NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github.
 
-[![Anderson GitHub stats](https://github-readme-stats.vercel.app/api?username=AndersonLeoni)](https://github.com/AndersonLeoni/github-readme-stats)
+[![Anderson GitHub stats](https://github-readme-stats.vercel.app/api?username=AndersonLeoni)](https://github.com/AndersonLeoni/github-readme-stats&&show_icons=true)
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
