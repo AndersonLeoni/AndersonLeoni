@@ -32,7 +32,11 @@ Hi, I'm Anderson Leoni, a passionate self-taught frontEnd web developer from Bra
 
 ![Anderson's GitHub stats](https://github-readme-stats.vercel.app/api?username=AndersonLeoni&show_icons=true&theme=dracula)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AndersonLeoni&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AndersonLeoni&layout=compact&theme=dracula)
+
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=AndersonLeoni&layout=compact&theme=dracula)
+
+
 
   
 
