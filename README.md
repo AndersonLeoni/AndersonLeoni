@@ -30,6 +30,7 @@ Hi, I'm Anderson Leoni, a passionate self-taught frontEnd web developer from Bra
 
 *NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github.
 
+![Anderson's GitHub stats](https://github-readme-stats.vercel.app/api?username=AndersonLeoni&show_icons=true&theme=dracula)
 
 
 
