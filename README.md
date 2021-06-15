@@ -34,7 +34,7 @@ Hi, I'm Anderson Leoni, a passionate self-taught frontEnd web developer from Bra
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AndersonLeoni&layout=compact&theme=dracula)
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=AndersonLeoni&layout=compact&theme=dracula)
+
 
 
 
