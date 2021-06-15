@@ -33,7 +33,7 @@ Hi, I'm Anderson Leoni, a passionate self-taught frontEnd web developer from Bra
 
 
 
-[![Anderson GitHub stats](https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=AndersonLeoni&layout=compact&theme=dracula)
+[Anderson GitHub stats](https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=AndersonLeoni&layout=compact&theme=dracula)
   
 
 
