@@ -11,4 +11,5 @@ A disciplina que aplico na tecnologia se reflete fora do escritório. Sou **tria
 A partir de agora, este espaço é dedicado aos meus projetos mais sólidos, que vão desde automação e integração de dados até sistemas completos de gestão (como controle financeiro e organização de bibliotecas digitais).
 
 ---
-📫 **Como me encontrar:** [LinkedIn](https://www.linkedin.com/in/andersonleoni/) | [E-mail](mailto:andersonleoni1@yahoo.com.br)
+📫 **Como me encontrar:** [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andersonleoni/)
+[![E-mail](https://img.shields.io/badge/Email-720e9e?style=for-the-badge&logo=yahoo&logoColor=white)](mailto:andersonleoni1@yahoo.com.br)
