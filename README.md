@@ -12,8 +12,8 @@ A disciplina que aplico na tecnologia se reflete fora do escritório. Sou **tria
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AndersonLeoni&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndersonLeoni&layout=compact&theme=radical"/>
+  <img height="180" src="https://github-readme-stats-fast.vercel.app/api?username=AndersonLeoni&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=AndersonLeoni&layout=compact&theme=radical"/>
 </div>
 
 ---
