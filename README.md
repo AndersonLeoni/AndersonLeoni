@@ -1,47 +1,14 @@
-### Hi there, I'm [AndersonLeoni!](https://andersonleoni.github.io) 👋
+## Olá! Sou o Anderson Leoni 👋
 
-<a href="https://codesandbox.io/u/AndersonLeoni">
-  <img align="left" alt="Anderson Leoni | CodeSandbox" width="20px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/codesandbox.svg" />
-</a>
-<a href="https://twitter.com/MadGraves138">
-  <img align="left" alt="Anderson | Twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
-</a>
-<a href="https://discord.gg/sEEqSe6F">
-  <img align="left" alt="Anurag's Discord" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/discord-round.svg" />
-</a>
+Sou **Senior Tech Lead** e **Lead Analyst**, apaixonado por resolver problemas complexos e construir arquiteturas sustentáveis. 
 
-<br />
-<br />
+Acredito muito no poder da organização, tanto no código quanto na gestão. Meu dia a dia envolve liderança de times, uso de metodologias ágeis (como OKRs) e desenvolvimento de soluções robustas, principalmente no ecossistema **Java** e ambientes **Linux**. Também estudo espanhol para aprimorar a comunicação em ambientes corporativos internacionais.
 
-Hi, I'm Anderson Leoni, a passionate self-taught frontEnd web developer from Brazil.
+**Um pouco mais sobre mim:**
+A disciplina que aplico na tecnologia se reflete fora do escritório. Sou **triatleta** amador (nadar, pedalar e correr fazem parte da minha rotina), entusiasta da **fotografia** e dedico um bom tempo construindo e organizando minha própria biblioteca física. 
 
+**O que você vai encontrar por aqui:**
+A partir de agora, este espaço é dedicado aos meus projetos mais sólidos, que vão desde automação e integração de dados até sistemas completos de gestão (como controle financeiro e organização de bibliotecas digitais).
 
-- 🌱 I’m currently learning JavaScript and SQL
-
-
-**Languages and Tools:**  
-
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-
-
-
-
-*NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github.
-
-![Anderson's GitHub stats](https://github-readme-stats.vercel.app/api?username=AndersonLeoni&show_icons=true&theme=dracula)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AndersonLeoni&layout=compact&theme=dracula)
-
-
-
-
-
-  
-
-
-
-
-  
-
+---
+📫 **Como me encontrar:** [(https://www.linkedin.com/in/andersonleoni/)] | [andersonleoni1@yahoo.com.br]
